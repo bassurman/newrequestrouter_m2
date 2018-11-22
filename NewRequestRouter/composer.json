@@ -1,0 +1,12 @@
+{
+    "name": "bassurman/new-request-router",
+    "type": "magento2-module",
+    "authors": [
+        {
+            "name": "alex",
+            "email": "a.grigorenko.belvg@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
